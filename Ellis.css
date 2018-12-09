@@ -1,0 +1,104 @@
+/* CSS Code For Escape From Earth Home Page */
+body{
+    background-color:#2086b6
+}
+
+/* Header Format*/
+header{
+    color:white;
+    background-color: black;
+    text-align: center;
+    display: block;
+    border: 5px solid black;
+}
+/* Heading 1 Format*/
+h1{
+    color:white;
+    font-size: 100px;
+    text-align: center;
+    display: block;
+    background-color: black;
+    border: 5px solid white;
+}
+
+/* Images Planets To Explore*/
+.ExploreSection{
+    height: 175px;
+    width: 250px;
+}
+
+
+
+.FlyAroundSec{
+    color: black;
+    text-align: center;
+    display: block;
+    background-color: #c81326;
+    border: 5px solid black;
+    font-style: italic;
+}   
+
+.HomeLinks{
+    color: black;
+    text-align: center;
+    display: block;
+    background-color: green;
+    border: 5px solid black;
+}
+
+.AboutSection{
+    color: white;
+    text-align: center;
+    display: block;
+    background-color: blue;
+    border: 5px solid black;
+}
+
+.MainExploreSection{
+    color: black;
+    text-align: center;
+    display: block;
+    background-color: #c81326;
+    border: 5px solid black;
+}
+
+.FooterLinks{
+    color: black;
+    text-align: center;
+    display: block;
+    background-color:green;
+    border: 5px solid black;
+}
+
+.FooterTextLogo{
+    color: black;
+    text-align: center;
+    display: block;
+    background-color: green;
+    border: 5px solid black;
+}
+
+.FooterCopyright{
+    color:black;
+    text-align: center;
+    display: block;
+    background-color: green;
+    border: 5px solid black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

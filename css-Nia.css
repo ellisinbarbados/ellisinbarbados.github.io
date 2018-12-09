@@ -1,0 +1,51 @@
+body{
+    background-image: url(comeBackground.jpg); color:white;   
+}
+
+#joinUs{
+    font-size:25; font-weight:bold; 
+}
+
+#comelong{
+    color:aqua; display:block; text-align:center; background-color:red;  border-style:solid; 
+}
+
+#ourteam{
+    text-align:center;
+}
+
+#email{
+    color:aqua; font-weight:bold;
+}
+
+#nav{
+    display:inline-block;
+}
+
+#stickteam{
+    display: block; margin-left: auto; margin-right: auto;
+
+    #rocketgif{
+        display: block; margin-left: auto; margin-right: auto; 
+    }
+}
+
+header{
+    text-align:center; font-size:40; color:aqua;
+}
+
+.navBarText{
+    color:turquoise; font-size:20; text-align:right; display:inline-block; 
+}
+
+p{
+    padding:50px;
+}
+
+#whozwe{
+color:aqua; background-color:red; border-style:solid; 
+}
+
+.info{
+    text-align:center; 
+}
